@@ -7,4 +7,5 @@
 ## More About Me: 🙎‍♂️
 
 🔵 `Frontend Engineer`. `Student`. `Fast Learner`.
-📖 
+
+📖 Student.
